@@ -271,7 +271,7 @@ Now your autocomplete code is unobtrusive, Rails style.
 To configure the behaviour if no matches are found, you can set the following options:
 
     jQuery.railsAutocomplete.options.showNoMatches //default true
-    jQuery.railsAutocomplete.options.noMatchesLabel //default 'no existing match'
+    jQuery.railsAutocomplete.options.noMatchesLabel //default 'Sorry, we don't deliver here yet.'
 
 These will change the behaviour globally. To set them on a single input field use:
 
